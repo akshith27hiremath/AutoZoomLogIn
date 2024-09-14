@@ -3,6 +3,8 @@
 ### Description 
 I developed this script at the start of online classes because I found manually searching up the Meeting ID number and password in the timetable pdf, then copying both into zoom, to be time consuming. This script requires some initial setup, but then shortens the login process from the 30+ seconds hassle of finding the ID/pwd and multiple uneccessary keystrokes to an instantaneous process from there on out.
 
+#### A sample timetable.json file has been included in the repository for ease of testing, the html file generates a new timetable.json file for the user's timetable which can replace the current timetable.json file
+
 <br>
 
 ### Features
