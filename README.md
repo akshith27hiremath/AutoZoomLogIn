@@ -2,10 +2,17 @@
 
 Description: I developed this script at the start of online classes because I found manually searching up the Meeting ID number and password in the timetable pdf, then copying both into zoom, to be time consuming. This script requires some initial setup and then shortens the login process from 30+ seconds and multiple keystrokes to an instantaneous process.
 
+<br>
+
+Features: <b>Reads</b> system time and compares it to a json timetable file, <b>retrieves</b> the correct Meeting ID and password, <b>opens</b> Zoom in a browser which triggers it to be opened in the system, <b>pastes</b> in the correct password automatically, lgoging you into your meeting without you having to lift a finger.
+
+<br>
+
+I converted the python file into an exe for portability onto other systems, but assigning a KEYBOARD SHORTCUT to a .bat file that opens 
+
 # SETUP
 
 1. Clone the repository
-
 git clone
 
 2. Install Zoom, and keep Zoom minimized in your app drawer
