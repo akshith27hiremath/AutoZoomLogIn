@@ -4,11 +4,11 @@ Description: I developed this script at the start of online classes because I fo
 
 <br>
 
-Features: <b>Reads</b> system time and compares it to a json timetable file, <b>retrieves</b> the correct Meeting ID and password, <b>opens</b> Zoom in a browser which triggers it to be opened in the system, <b>pastes</b> in the correct password automatically, lgoging you into your meeting without you having to lift a finger.
+Features: <br><b>Converts</b> your timetable into a JSON file using JavaScript<br><b>Reads</b> current system time and day using datetime and compares it to a json timetable file using the json library,<br><b>retrieves</b> the correct Meeting ID and password using, <br><b>opens</b> Zoom in a browser which triggers it to be opened in the system using webbrowser library, <br><b>Brings</b> the zoom window to the front using pygetwindow, <br><b>pastes</b> the correct password into the dialog box using pyperclip and pygetwindow, logging you into your meeting without you having to lift a finger.
 
 <br>
 
-I converted the python file into an exe for portability onto other systems, but assigning a KEYBOARD SHORTCUT to a .bat file that opens 
+BONUS: A side benefit of using an .exe file instead of a .py file is you can assign it to a keyboard shortcut in windows (I used alt+shift+z) to shorten the entire instaneneous process from clicking a file to a single keystroke.
 
 # SETUP
 
@@ -41,4 +41,4 @@ In the upper white table, enter the time slots. (eg. Period 1 would be 8:00 - 9:
 
 Click app.exe when you have a meeting, and upon the browser trigger alert "automatically open links from zoom", CHECK the box. this will automate the entire process from front to back for every time in the future <br>
 
-### 9. You're done! click app.exe whenever you're 10 minutes within a time slot or inside the time slot and you'll automatically enter your meeting!
+### 10. You're done! click app.exe whenever you're 10 minutes within a time slot or inside the time slot and you'll automatically enter your meeting!
