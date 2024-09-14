@@ -1,10 +1,11 @@
 # AUTO ZOOM LOGIN
 
-Description: I developed this script at the start of online classes because I found manually searching up the Meeting ID number and password in the timetable pdf, then copying both into zoom, to be time consuming. This script requires some initial setup and then shortens the login process from 30+ seconds and multiple keystrokes to an instantaneous process.
+### Description 
+I developed this script at the start of online classes because I found manually searching up the Meeting ID number and password in the timetable pdf, then copying both into zoom, to be time consuming. This script requires some initial setup and then shortens the login process from 30+ seconds and multiple keystrokes to an instantaneous process.
 
 <br>
 
-### Features: 
+### Features
 <br><b>Converts</b> your timetable into a JSON file using JavaScript<br><b>Reads</b> current system time and day using datetime library,<br><b>retrieves</b> the correct Meeting ID and password using the json library, <br><b>opens</b> Zoom in a browser which triggers it to be opened in the system using webbrowser library, <br><b>Brings</b> the zoom window to the front using pygetwindow, <br><b>pastes</b> the correct password into the dialog box using pyperclip and pygetwindow, logging you into your meeting without you having to lift a finger.
 
 <br>
