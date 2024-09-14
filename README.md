@@ -13,22 +13,23 @@ I converted the python file into an exe for portability onto other systems, but 
 # SETUP
 
 1. Clone the repository
-git clone
+
+`git clone https://github.com/akshith27hiremath/AutoZoomLogIn.git` <br>
 
 2. Install Zoom, and keep Zoom minimized in your app drawer
 
 2. Open createtimetable.html
 
-Open file explorer and click on the html file (it should open in your browser)
+Open file explorer and click on the html file (it should open in your browser) <br>
 
 3. Upload timetable
 
 Follow the alerts instructions to create a dynamic and personalized timetable upload table. <br>
-For example, for a BITS timetable you would type 9, 5, Monday/Tuesday/Wednesday/Thursday/Friday
+For example, for a BITS timetable you would type 9, 5, Monday/Tuesday/Wednesday/Thursday/Friday<br>
 
 4. Enter time slots
 
-In the upper white table, enter the time slots. (eg. Period 1 would be 8:00 - 9:00, Period 2 would be 9:00 - 10:00 etc.)
+In the upper white table, enter the time slots. (eg. Period 1 would be 8:00 - 9:00, Period 2 would be 9:00 - 10:00 etc.) <br>
 
 5. Enter respective Meeting IDs and passwords
 
@@ -38,6 +39,6 @@ In the upper white table, enter the time slots. (eg. Period 1 would be 8:00 - 9:
 
 8. <B> IMPORTANT </B> SINGLE ONBOARDING STEP
 
-Click app.exe when you have a meeting, and upon the browser trigger alert "automatically open links from zoom", CHECK the box. this will automate the entire process from front to back for every time in the future
+Click app.exe when you have a meeting, and upon the browser trigger alert "automatically open links from zoom", CHECK the box. this will automate the entire process from front to back for every time in the future <br>
 
 9. You're done! click app.exe whenever you're 10 minutes within a time slot or inside the time slot and you'll automatically enter your meeting!
