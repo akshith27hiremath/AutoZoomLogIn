@@ -1,7 +1,7 @@
 # AUTO ZOOM LOGIN
 
 
-# If cloning for testing purposes, clone the repository and skip to step 9 (very important one step process).
+# If cloning for testing purposes, confirm to step 2 and skip to step 9 (very important one step process). Then run app.exe again to see the finished product.
 
 ### Description 
 I developed this script at the start of online classes because I found manually searching up the Meeting ID number and password in the timetable pdf, then copying both into zoom, to be time consuming. This script requires some initial setup, but then shortens the login process from the 30+ seconds hassle of finding the ID/pwd and multiple uneccessary keystrokes to an instantaneous process from there on out.
