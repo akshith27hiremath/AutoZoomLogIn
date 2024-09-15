@@ -50,7 +50,7 @@ In the upper white table, enter the time slots. (eg. Period 1 would be 8:00 - 9:
 
 ### 9. <B> IMPORTANT </B> SINGLE ONBOARDING STEP
 
+#### Refer to reference.png <br>
 Click app.exe when you have a meeting, and upon the browser trigger alert "automatically open links from zoom", CHECK the box. this will automate the entire process from front to back for every time in the future. <br>
-Refer to reference.png <br>
 
 ### 10. You're done! click app.exe whenever you're 10 minutes within a time slot or inside the time slot and you'll automatically enter your meeting!
